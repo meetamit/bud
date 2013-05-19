@@ -1,0 +1,21 @@
+{
+  "name": "steiger",
+  "version": "0.0.1",
+  "private": true,
+  "devDependencies": {
+    "jade": "~0.28.1",
+    "grunt": "~0.4.0",
+    "grunt-contrib-watch": "~0.1.4",
+    "grunt-contrib-sass": "git://github.com/gruntjs/grunt-contrib-sass.git#aa0f821697",
+    "grunt-contrib-clean": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-jade": "~0.5.0",
+    "grunt-contrib-connect": "~0.3.0",
+    "grunt-contrib-coffee": "~0.7.0"
+  },
+  "optionalDependencies": {
+    "zombie": "~2.0.0-alpha16",
+    "grunt-simple-mocha": "~0.4.0",
+    "chai": "~1.6.0"
+  }
+}
